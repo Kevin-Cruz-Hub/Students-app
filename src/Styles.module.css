@@ -1,0 +1,11 @@
+.Main{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+.Items{
+    border: 3px double black;
+    background-color: green;
+    color: white;
+}
